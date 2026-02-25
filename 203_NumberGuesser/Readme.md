@@ -4,10 +4,10 @@ Overview
 An interactive game that challenges the user to guess a randomly generated number. This project introduces logic for repetition and randomness.
 
 Concepts Learned
-1. Randomization:** Using `System.Random`.
-2. Iteration:** Mastering `while` loops for continuous execution.
-3. Data Validation:** Using `int.TryParse` to prevent runtime crashes from bad user input.
-4. State Management:** Tracking variables (attempts) across multiple loop cycles.
+1. Randomization: Using `System.Random`.
+2. Iteration: Mastering `while` loops for continuous execution.
+3. Data Validation: Using `int.TryParse` to prevent runtime crashes from bad user input.
+4. State Management: Tracking variables (attempts) across multiple loop cycles.
 
 Interview Questions
 Q1: Why use `int.TryParse` instead of `int.Parse`?
